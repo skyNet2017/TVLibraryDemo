@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TVLibrary/TVLibrary.iml" filepath="$PROJECT_DIR$/TVLibrary/TVLibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TVLibraryDemo.iml" filepath="$PROJECT_DIR$/TVLibraryDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TVLibraryDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/TVLibraryDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TVLibrary/TVLibraryDemo.TVLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/TVLibrary/TVLibraryDemo.TVLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TVLibrary/TVLibraryDemo.TVLibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TVLibrary/TVLibraryDemo.TVLibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TVLibrary/TVLibraryDemo.TVLibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TVLibrary/TVLibraryDemo.TVLibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TVLibrary/TVLibraryDemo.TVLibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TVLibrary/TVLibraryDemo.TVLibrary.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TVLibraryDemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TVLibraryDemo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TVLibraryDemo.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TVLibraryDemo.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TVLibraryDemo.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TVLibraryDemo.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TVLibraryDemo.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TVLibraryDemo.app.unitTest.iml" />
     </modules>
   </component>
 </project>
